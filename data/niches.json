@@ -1,22 +1,22 @@
 {
     "domain": "bedding.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "이불 및 패드",
+        "베개 및 쿠션",
+        "침구 세트"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang bedding items."
+        "이불 및 패드": {
+            "topic": "Comforters, mattress pads, blankets.",
+            "role": "Bedding materials expert."
         },
-        "수유/이유식": {
-            "topic": "bedding bottle sterilizers, bedding food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "베개 및 쿠션": {
+            "topic": "Memory foam pillows, body pillows, cushions.",
+            "role": "Sleep quality reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "침구 세트": {
+            "topic": "Bedding sets, duvet covers, bed skirts.",
+            "role": "Bedroom styling curator."
         }
     }
 }
