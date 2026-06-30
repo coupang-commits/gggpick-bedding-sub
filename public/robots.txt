@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bedding.gggpick.com/sitemap.xml
